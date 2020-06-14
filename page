@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8"/>
+	<title>Lucas Capra</title>
+	<style>
+		h1 {
+			font-family: Arial;
+			font-size: 15pt;
+			color: blue;
+		}
+	</style>
+
+
+</head>
+
+<body>
+	<h1>PROCESSO SELETIVO ASCII</h1>
+	<h2>Quem sou...</h2>
+	<h2>Minhas Habilidades</h2>
+	<h3>O que posso oferecer para a empresa?</h3>
+</body>
+</body>
+
+</html>
